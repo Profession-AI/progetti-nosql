@@ -57,4 +57,3 @@ La soluzione di **DigitalConnect** consente alle aziende di avere un controllo t
 
 Il dataset è scaricabile da qui: https://proai-datasets.s3.eu-west-3.amazonaws.com/contatti.json
 
-# Modalità di consegna: script MongoDB
