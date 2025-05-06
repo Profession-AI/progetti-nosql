@@ -25,6 +25,8 @@ Il progetto prevede la progettazione e l’implementazione di un sistema di gest
 - Simulazione di scenari reali, come la ricerca di ordini per cliente o lo stato di avanzamento della consegna.
 - Documentazione delle decisioni progettuali con motivazioni orientate alle esigenze aziendali.
 
+Le informazioni da inserire nel database relativamente agli ordini sono a discrezione dello studente.
+
 ## Valore Aggiunto per FastDrop S.r.l.
 
 Con l’introduzione di un sistema basato su DynamoDB, FastDrop acquisisce una piattaforma in grado di gestire ordini in tempo reale con alte prestazioni e scalabilità automatica. Questo consente di migliorare la soddisfazione del cliente grazie a risposte più rapide, ridurre i tempi di gestione interna e abbassare i costi legati alla manutenzione dell’infrastruttura. Inoltre, la possibilità di eseguire analisi rapide sugli ordini consente un migliore controllo operativo e decisioni più informate da parte del management. La nuova architettura diventa così un asset strategico per sostenere la crescita dell’azienda in un mercato competitivo.
@@ -33,4 +35,3 @@ Con l’introduzione di un sistema basato su DynamoDB, FastDrop acquisisce una p
 
 - Schema dati ottimizzato per DynamoDB con esempi di payload.
 - Script Python funzionanti per operazioni CRUD e query operative.
-- Documento di progetto che descrive le scelte tecniche in funzione dei requisiti aziendali.
